@@ -45,13 +45,6 @@ ORDER BY funds_raised_millions DESC;
 
 
 
-
-
-
-
-
-
-
 -- SOMEWHAT TOUGHER AND MOSTLY USING GROUP BY--------------------------------------------------------------------------------------------------
 
 -- Companies with the biggest single Layoff
