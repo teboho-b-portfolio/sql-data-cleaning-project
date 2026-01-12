@@ -16,7 +16,7 @@ The projects demonstrate an end-to-end analytics workflow, including data explor
 
   
 
-#Portfolio Project 1: SQL Data Cleaning
+# Portfolio Project 1: SQL Data Cleaning
 
 This project focuses on cleaning a real-world layoffs dataset using SQL. It is my first data project and was created to practice essential data cleaning techniques before analysis.
 
