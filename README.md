@@ -1,6 +1,6 @@
 # Data-Analytics-Portfolio
 
-THis repository contains a collection of data analytics projects focused on transforming raw data into meaningful insights and actionable outcomes.
+This repository contains a collection of data analytics projects focused on transforming raw data into meaningful insights and actionable outcomes.
 
 The projects demonstrate an end-to-end analytics workflow, including data exploration, cleaning, analysis, visualisation, and insight communication. Each project is designed to answer real-world business or analytical questions and present results in a clear, decision-oriented manner.
 
