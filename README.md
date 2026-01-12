@@ -14,7 +14,7 @@ The projects demonstrate an end-to-end analytics workflow, including data explor
   This repository serves as a portfolio to showcase practical analytics skills, problem-soving ability, and the effective communication of data-driven insights.
   
 
-## Project 1: SQL Data Cleaning
+## Portfolio Project 1: SQL Data Cleaning
 
 This project focuses on cleaning a real-world layoffs dataset using SQL. It is my first data project and was created to practice essential data cleaning techniques before analysis.
 
@@ -28,7 +28,7 @@ https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
 - Practice SQL data cleaning workflows
 
- - Tools
+## Tools
 
 SQL (MySQL)
 
@@ -46,4 +46,4 @@ SQL (MySQL)
 
 ## Outcome
 
-A clean, standardized dataset ready for exploratory data analysis (EDA).
+A clean, standardised dataset ready for exploratory data analysis (EDA).
