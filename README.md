@@ -121,7 +121,7 @@ Dashboard – interactive visuals summarising key trends
 
 Higher income groups are more likely to purchase bikes
 
-Age and commute distance influence buying behavior
+Age and commute distance influence buying behaviour
 
 Demographics impact purchasing patterns
 
