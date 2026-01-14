@@ -1,4 +1,4 @@
--- Exploratory Data Analysis (EDA)
+-- Exploratory Data Analysis (EDA) based on Portfolio Project 1
 
 -- Here we are jsut going to explore the data and find trends or patterns or anything interesting like outliers
 
