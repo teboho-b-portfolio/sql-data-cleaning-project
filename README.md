@@ -129,5 +129,5 @@ Demographics impact purchasing patterns
 
 Microsoft Excel
 
-This project is part of my data analyst portfolio and highlights practical Excel analytics and visualisation skills.
+#### This project is part of my data analyst portfolio and highlights practical Excel analytics and visualisation skills.
 
